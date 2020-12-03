@@ -1,0 +1,3 @@
+a="a"
+b="sad"
+print(a+b)
